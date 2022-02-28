@@ -1,0 +1,47 @@
+.card-id {
+    display: flex;
+    background-image: url(../images/background4.png);
+    background-size: cover;
+    margin: 22px;
+    box-shadow: 20px 20px 30px rgb(0 0 0);
+    border-radius: 14px;
+    padding: 20px;
+    width: auto;
+}
+
+.card-id h6 {
+  margin-left: 300px;
+  width: auto;
+
+}
+
+.card-id h3 {
+  margin-top: 40px;
+  width: auto;
+}
+
+.card-id img {
+  margin-right: 150px;
+  padding-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

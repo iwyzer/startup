@@ -1,0 +1,89 @@
+/* colors and fonts*/
+
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card-id.css");
+
+body {
+	text-align: center;
+	background-image: url(../images/background2.png);
+    color: #bcae0d;
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    margin: 0px;
+}
+
+		a {
+			text-decoration: none;
+			color: #FFD100;
+			font-weight: 600;
+			font-family: 'Lobster', cursive;
+			}
+		a:hover{
+		color: #D6D6D6;
+		}
+
+
+
+h1, h2, h3 {
+	font-family: 'roboto', sans-serif;
+	font font-weight: bold;
+	color: #FFEE32;
+}
+
+h1 {
+	font-weight: 900;
+	font-size: 32px;
+}
+
+h2 {
+	font-size: 25px;
+	font-weight: 300;
+
+}
+
+p {
+	font-weight: 100;
+	font-family: Playfair Display;
+	color: #FFEE32
+}
+
+
+/* custom w classes*/
+
+
+.list-horizontal {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-horizontal li {
+	display: inline;
+	padding: 10px;
+}
+
+.card-white {
+	background-image: url(../images/background4.png);
+	background-size: cover;
+  padding: 35px;
+  margin: 50px;
+  box-shadow: 20px 20px 30px rgba(0,0,0,5);
+  border-radius: 10px;
+  padding-top: 10px;
+}
+
+.logo {
+	border-radius: 50%;
+	width: 150px;
+}
+
+
+
+
